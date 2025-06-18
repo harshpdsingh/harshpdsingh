@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Prasad Singh</h1>
 <h3 align="center">💻 Full Stack Developer | ⚙️ C++ & JavaScript Enthusiast | 🤖 Exploring AI/ML</h3>
 
-- 🌱 I’m currently working on: **VaultKeeper - Password Manager (MERN, AES, JWT)**
-- 💬 Ask me about: **React, Node.js, MongoDB, Express, C++, Git**
+- 🐾 **Feed A Stray** – A donation-based web app (Next.js + Razorpay) where people can contribute to feed stray animals
+- 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Express, C++, Git**
 - 📫 How to reach me: **harshpdsingh@gmail.com**
 - ⚡ Fun fact: I enjoy turning ☕ into code!
 
@@ -46,4 +46,6 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/harshpdsingh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsh-prasad-singh-414655261/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/harsh_pd_singh)
+
