@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Prasad Singh</h1>
 <h3 align="center">💻 Full Stack Developer | ⚙️ C++ & JavaScript Enthusiast | 🤖 Exploring AI/ML</h3>
 
-- 🐾 **Feed A Stray** – A donation-based web app (Next.js + Razorpay) where people can contribute to feed stray animals
 - 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Express, C++, Git**
 - 📫 How to reach me: **harshpdsingh@gmail.com**
 - ⚡ Fun fact: I enjoy turning ☕ into code!
@@ -29,7 +28,7 @@
 ### 💼 Projects
 - 🔐 [VaultKeeper - Password Manager](https://github.com/harshpdsingh/Password-Manager-MERN)
 - 📝 [Anonymous Blogging Platform](https://github.com/harshpdsingh/Secrets-Blog-Website)
-- 🍵 [Get Me A Chai - Razorpay & MongoDB](https://github.com/harshpdsingh/Get-me-A-Chai)
+- 🍵 [Feed a Stray – Donations via Razorpay & MongoDB](https://github.com/harshpdsingh/Feed-a-Stray)
 - 📄 [AI PDF Chatbot using LangChain + Ollama](https://github.com/harshpdsingh/AI-pdf-reader-Chatbot)
 
 ---
