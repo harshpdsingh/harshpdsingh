@@ -28,7 +28,7 @@
 ### 💼 Projects
 - 🔐 [VaultKeeper - Password Manager](https://github.com/harshpdsingh/Password-Manager-MERN)
 - 📝 [Anonymous Blogging Platform](https://github.com/harshpdsingh/Secrets-Blog-Website)
-- 🍵 [Feed a Stray – Donations via Razorpay & MongoDB](https://github.com/harshpdsingh/Feed-a-Stray)
+- 🐾 [Feed a Stray – Donations via Razorpay & MongoDB](https://github.com/harshpdsingh/Feed-a-Stray)
 - 📄 [AI PDF Chatbot using LangChain + Ollama](https://github.com/harshpdsingh/AI-pdf-reader-Chatbot)
 
 ---
