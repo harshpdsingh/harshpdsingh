@@ -34,8 +34,10 @@
 ---
 
 ### 🏆 Achievements
-- ✅ Completed Intel® Unnati AI/ML Training Program
-- ⭐ Built full-stack apps featured in campus showcase
+
+- ✅ Completed Intel® Unnati AI/ML Training Program  
+- 🚀 Actively developing scalable projects using React, Express.js, and OAuth  
+- 🎯 Continuously learning through hands-on development and open-source contributions
 
 ---
 ### 📊 GitHub Stats
